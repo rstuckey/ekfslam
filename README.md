@@ -11,3 +11,5 @@
 ## Usage
 
 Just open ekfslam.html in your browser, or serve locally.
+
+See [here](http://blogofrog.com/2011/02/21/slam-html5/) for more information.
