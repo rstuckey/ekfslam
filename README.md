@@ -4,6 +4,8 @@
 
 *Original Matlab version by Tim Bailey & Juan Nieto, 2004.*
 
+![SLAM (HTML5/Processing)](https://raw.githubusercontent.com/rstuckey/ekfslam/master/slam_html5.png "SLAM (HTML5/Processing)")
+
 ## Requirements
 
 [Processing.js (1.3.6)](https://johnresig.com/blog/processingjs/)
